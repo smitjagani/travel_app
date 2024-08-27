@@ -8,6 +8,7 @@ This travel app fetches and stores route and attraction data using Hive. It foll
 
 ## Getting Started
 
+
 To run this project locally, follow these steps:
 
 1. Clone the repository:
