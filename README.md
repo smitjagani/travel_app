@@ -4,7 +4,7 @@ This travel app fetches and stores route and attraction data using Hive. It foll
 
 ## Flutter Version
 
-3.22.6
+3.22.2
 
 ## Getting Started
 
